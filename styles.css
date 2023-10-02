@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(#F0F0F0, #3F3F3F);
+}
+
+.social-feed {
+    max-width: 750px;
+    margin: auto;
+}
+
+.post-card {
+    background: #F0F0F0;
+    border-radius: 15px;
+    border: 1px solid gray;
+}
+
+.post-author, .post-title, .post-date, .post-text {
+    padding: 0% 5%;
+}
+
+.post-image {
+    max-width: 100%;
+    height: auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: -5px;
+}
